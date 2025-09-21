@@ -1,0 +1,144 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/deanscott/Desktop/Revature/GelbaumD/trainer-code/CodingChallenges/5_Operators/5_OperatorsChallenge.Tests/5_OperatorsChallenge.Tests.csproj": {}
+  },
+  "projects": {
+    "/Users/deanscott/Desktop/Revature/GelbaumD/trainer-code/CodingChallenges/5_Operators/5_Operators/5_Operators.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/deanscott/Desktop/Revature/GelbaumD/trainer-code/CodingChallenges/5_Operators/5_Operators/5_Operators.csproj",
+        "projectName": "5_Operators",
+        "projectPath": "/Users/deanscott/Desktop/Revature/GelbaumD/trainer-code/CodingChallenges/5_Operators/5_Operators/5_Operators.csproj",
+        "packagesPath": "/Users/deanscott/.nuget/packages/",
+        "outputPath": "/Users/deanscott/Desktop/Revature/GelbaumD/trainer-code/CodingChallenges/5_Operators/5_Operators/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/deanscott/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.305/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/deanscott/Desktop/Revature/GelbaumD/trainer-code/CodingChallenges/5_Operators/5_OperatorsChallenge.Tests/5_OperatorsChallenge.Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/deanscott/Desktop/Revature/GelbaumD/trainer-code/CodingChallenges/5_Operators/5_OperatorsChallenge.Tests/5_OperatorsChallenge.Tests.csproj",
+        "projectName": "5_OperatorsChallenge.Tests",
+        "projectPath": "/Users/deanscott/Desktop/Revature/GelbaumD/trainer-code/CodingChallenges/5_Operators/5_OperatorsChallenge.Tests/5_OperatorsChallenge.Tests.csproj",
+        "packagesPath": "/Users/deanscott/.nuget/packages/",
+        "outputPath": "/Users/deanscott/Desktop/Revature/GelbaumD/trainer-code/CodingChallenges/5_Operators/5_OperatorsChallenge.Tests/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/deanscott/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "/Users/deanscott/Desktop/Revature/GelbaumD/trainer-code/CodingChallenges/5_Operators/5_Operators/5_Operators.csproj": {
+                "projectPath": "/Users/deanscott/Desktop/Revature/GelbaumD/trainer-code/CodingChallenges/5_Operators/5_Operators/5_Operators.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[15.9.0, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.1, )"
+            },
+            "xunit.runner.visualstudio": {
+              "target": "Package",
+              "version": "[2.4.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.305/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

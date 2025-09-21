@@ -1,0 +1,15 @@
+/Users/deanscott/Desktop/Revature/GelbaumD/trainer-code/CodingChallenges/1_Strings/Strings/obj/Debug/net9.0/Strings.GeneratedMSBuildEditorConfig.editorconfig
+/Users/deanscott/Desktop/Revature/GelbaumD/trainer-code/CodingChallenges/1_Strings/Strings/obj/Debug/net9.0/Strings.AssemblyInfoInputs.cache
+/Users/deanscott/Desktop/Revature/GelbaumD/trainer-code/CodingChallenges/1_Strings/Strings/obj/Debug/net9.0/Strings.AssemblyInfo.cs
+/Users/deanscott/Desktop/Revature/GelbaumD/trainer-code/CodingChallenges/1_Strings/Strings/obj/Debug/net9.0/Strings.csproj.CoreCompileInputs.cache
+/Users/deanscott/Desktop/Revature/GelbaumD/trainer-code/CodingChallenges/1_Strings/Strings/obj/Debug/net9.0/Strings.sourcelink.json
+/Users/deanscott/Desktop/Revature/GelbaumD/trainer-code/CodingChallenges/1_Strings/Strings/bin/Debug/net9.0/Strings
+/Users/deanscott/Desktop/Revature/GelbaumD/trainer-code/CodingChallenges/1_Strings/Strings/bin/Debug/net9.0/Strings.deps.json
+/Users/deanscott/Desktop/Revature/GelbaumD/trainer-code/CodingChallenges/1_Strings/Strings/bin/Debug/net9.0/Strings.runtimeconfig.json
+/Users/deanscott/Desktop/Revature/GelbaumD/trainer-code/CodingChallenges/1_Strings/Strings/bin/Debug/net9.0/Strings.dll
+/Users/deanscott/Desktop/Revature/GelbaumD/trainer-code/CodingChallenges/1_Strings/Strings/bin/Debug/net9.0/Strings.pdb
+/Users/deanscott/Desktop/Revature/GelbaumD/trainer-code/CodingChallenges/1_Strings/Strings/obj/Debug/net9.0/Strings.dll
+/Users/deanscott/Desktop/Revature/GelbaumD/trainer-code/CodingChallenges/1_Strings/Strings/obj/Debug/net9.0/refint/Strings.dll
+/Users/deanscott/Desktop/Revature/GelbaumD/trainer-code/CodingChallenges/1_Strings/Strings/obj/Debug/net9.0/Strings.pdb
+/Users/deanscott/Desktop/Revature/GelbaumD/trainer-code/CodingChallenges/1_Strings/Strings/obj/Debug/net9.0/Strings.genruntimeconfig.cache
+/Users/deanscott/Desktop/Revature/GelbaumD/trainer-code/CodingChallenges/1_Strings/Strings/obj/Debug/net9.0/ref/Strings.dll

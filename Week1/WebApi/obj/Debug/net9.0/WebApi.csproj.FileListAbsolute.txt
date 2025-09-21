@@ -1,0 +1,66 @@
+/Users/deanscott/Desktop/Revature/GelbaumD/Week1/WebApi/obj/Debug/net9.0/WebApi.csproj.AssemblyReference.cache
+/Users/deanscott/Desktop/Revature/GelbaumD/Week1/WebApi/obj/Debug/net9.0/rpswa.dswa.cache.json
+/Users/deanscott/Desktop/Revature/GelbaumD/Week1/WebApi/obj/Debug/net9.0/WebApi.GeneratedMSBuildEditorConfig.editorconfig
+/Users/deanscott/Desktop/Revature/GelbaumD/Week1/WebApi/obj/Debug/net9.0/WebApi.AssemblyInfoInputs.cache
+/Users/deanscott/Desktop/Revature/GelbaumD/Week1/WebApi/obj/Debug/net9.0/WebApi.AssemblyInfo.cs
+/Users/deanscott/Desktop/Revature/GelbaumD/Week1/WebApi/obj/Debug/net9.0/WebApi.csproj.CoreCompileInputs.cache
+/Users/deanscott/Desktop/Revature/GelbaumD/Week1/WebApi/obj/Debug/net9.0/WebApi.MvcApplicationPartsAssemblyInfo.cs
+/Users/deanscott/Desktop/Revature/GelbaumD/Week1/WebApi/obj/Debug/net9.0/WebApi.MvcApplicationPartsAssemblyInfo.cache
+/Users/deanscott/Desktop/Revature/GelbaumD/Week1/WebApi/obj/Debug/net9.0/WebApi.sourcelink.json
+/Users/deanscott/Desktop/Revature/GelbaumD/Week1/WebApi/bin/Debug/net9.0/appsettings.Development.json
+/Users/deanscott/Desktop/Revature/GelbaumD/Week1/WebApi/bin/Debug/net9.0/appsettings.json
+/Users/deanscott/Desktop/Revature/GelbaumD/Week1/WebApi/bin/Debug/net9.0/WebApi.staticwebassets.endpoints.json
+/Users/deanscott/Desktop/Revature/GelbaumD/Week1/WebApi/bin/Debug/net9.0/WebApi
+/Users/deanscott/Desktop/Revature/GelbaumD/Week1/WebApi/bin/Debug/net9.0/WebApi.deps.json
+/Users/deanscott/Desktop/Revature/GelbaumD/Week1/WebApi/bin/Debug/net9.0/WebApi.runtimeconfig.json
+/Users/deanscott/Desktop/Revature/GelbaumD/Week1/WebApi/bin/Debug/net9.0/WebApi.dll
+/Users/deanscott/Desktop/Revature/GelbaumD/Week1/WebApi/bin/Debug/net9.0/WebApi.pdb
+/Users/deanscott/Desktop/Revature/GelbaumD/Week1/WebApi/bin/Debug/net9.0/Microsoft.AspNetCore.OpenApi.dll
+/Users/deanscott/Desktop/Revature/GelbaumD/Week1/WebApi/bin/Debug/net9.0/Microsoft.OpenApi.dll
+/Users/deanscott/Desktop/Revature/GelbaumD/Week1/WebApi/obj/Debug/net9.0/rjimswa.dswa.cache.json
+/Users/deanscott/Desktop/Revature/GelbaumD/Week1/WebApi/obj/Debug/net9.0/rjsmrazor.dswa.cache.json
+/Users/deanscott/Desktop/Revature/GelbaumD/Week1/WebApi/obj/Debug/net9.0/rjsmcshtml.dswa.cache.json
+/Users/deanscott/Desktop/Revature/GelbaumD/Week1/WebApi/obj/Debug/net9.0/scopedcss/bundle/WebApi.styles.css
+/Users/deanscott/Desktop/Revature/GelbaumD/Week1/WebApi/obj/Debug/net9.0/staticwebassets.build.json
+/Users/deanscott/Desktop/Revature/GelbaumD/Week1/WebApi/obj/Debug/net9.0/staticwebassets.build.json.cache
+/Users/deanscott/Desktop/Revature/GelbaumD/Week1/WebApi/obj/Debug/net9.0/staticwebassets.development.json
+/Users/deanscott/Desktop/Revature/GelbaumD/Week1/WebApi/obj/Debug/net9.0/staticwebassets.build.endpoints.json
+/Users/deanscott/Desktop/Revature/GelbaumD/Week1/WebApi/obj/Debug/net9.0/WebApi.csproj.Up2Date
+/Users/deanscott/Desktop/Revature/GelbaumD/Week1/WebApi/obj/Debug/net9.0/WebApi.dll
+/Users/deanscott/Desktop/Revature/GelbaumD/Week1/WebApi/obj/Debug/net9.0/refint/WebApi.dll
+/Users/deanscott/Desktop/Revature/GelbaumD/Week1/WebApi/obj/Debug/net9.0/WebApi.pdb
+/Users/deanscott/Desktop/Revature/GelbaumD/Week1/WebApi/obj/Debug/net9.0/WebApi.genruntimeconfig.cache
+/Users/deanscott/Desktop/Revature/GelbaumD/Week1/WebApi/obj/Debug/net9.0/ref/WebApi.dll
+C:\Users\Cambridge\Documents\Revature\Week 1\GelbaumD\Week1\WebApi\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\Cambridge\Documents\Revature\Week 1\GelbaumD\Week1\WebApi\bin\Debug\net9.0\appsettings.json
+C:\Users\Cambridge\Documents\Revature\Week 1\GelbaumD\Week1\WebApi\bin\Debug\net9.0\WebApi.staticwebassets.endpoints.json
+C:\Users\Cambridge\Documents\Revature\Week 1\GelbaumD\Week1\WebApi\bin\Debug\net9.0\WebApi.exe
+C:\Users\Cambridge\Documents\Revature\Week 1\GelbaumD\Week1\WebApi\bin\Debug\net9.0\WebApi.deps.json
+C:\Users\Cambridge\Documents\Revature\Week 1\GelbaumD\Week1\WebApi\bin\Debug\net9.0\WebApi.runtimeconfig.json
+C:\Users\Cambridge\Documents\Revature\Week 1\GelbaumD\Week1\WebApi\bin\Debug\net9.0\WebApi.dll
+C:\Users\Cambridge\Documents\Revature\Week 1\GelbaumD\Week1\WebApi\bin\Debug\net9.0\WebApi.pdb
+C:\Users\Cambridge\Documents\Revature\Week 1\GelbaumD\Week1\WebApi\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Cambridge\Documents\Revature\Week 1\GelbaumD\Week1\WebApi\bin\Debug\net9.0\Microsoft.OpenApi.dll
+C:\Users\Cambridge\Documents\Revature\Week 1\GelbaumD\Week1\WebApi\obj\Debug\net9.0\WebApi.csproj.AssemblyReference.cache
+C:\Users\Cambridge\Documents\Revature\Week 1\GelbaumD\Week1\WebApi\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Users\Cambridge\Documents\Revature\Week 1\GelbaumD\Week1\WebApi\obj\Debug\net9.0\WebApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cambridge\Documents\Revature\Week 1\GelbaumD\Week1\WebApi\obj\Debug\net9.0\WebApi.AssemblyInfoInputs.cache
+C:\Users\Cambridge\Documents\Revature\Week 1\GelbaumD\Week1\WebApi\obj\Debug\net9.0\WebApi.AssemblyInfo.cs
+C:\Users\Cambridge\Documents\Revature\Week 1\GelbaumD\Week1\WebApi\obj\Debug\net9.0\WebApi.csproj.CoreCompileInputs.cache
+C:\Users\Cambridge\Documents\Revature\Week 1\GelbaumD\Week1\WebApi\obj\Debug\net9.0\WebApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Cambridge\Documents\Revature\Week 1\GelbaumD\Week1\WebApi\obj\Debug\net9.0\WebApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Cambridge\Documents\Revature\Week 1\GelbaumD\Week1\WebApi\obj\Debug\net9.0\WebApi.sourcelink.json
+C:\Users\Cambridge\Documents\Revature\Week 1\GelbaumD\Week1\WebApi\obj\Debug\net9.0\rjimswa.dswa.cache.json
+C:\Users\Cambridge\Documents\Revature\Week 1\GelbaumD\Week1\WebApi\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+C:\Users\Cambridge\Documents\Revature\Week 1\GelbaumD\Week1\WebApi\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+C:\Users\Cambridge\Documents\Revature\Week 1\GelbaumD\Week1\WebApi\obj\Debug\net9.0\scopedcss\bundle\WebApi.styles.css
+C:\Users\Cambridge\Documents\Revature\Week 1\GelbaumD\Week1\WebApi\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\Cambridge\Documents\Revature\Week 1\GelbaumD\Week1\WebApi\obj\Debug\net9.0\staticwebassets.build.json.cache
+C:\Users\Cambridge\Documents\Revature\Week 1\GelbaumD\Week1\WebApi\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\Cambridge\Documents\Revature\Week 1\GelbaumD\Week1\WebApi\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\Cambridge\Documents\Revature\Week 1\GelbaumD\Week1\WebApi\obj\Debug\net9.0\WebApi.csproj.Up2Date
+C:\Users\Cambridge\Documents\Revature\Week 1\GelbaumD\Week1\WebApi\obj\Debug\net9.0\WebApi.dll
+C:\Users\Cambridge\Documents\Revature\Week 1\GelbaumD\Week1\WebApi\obj\Debug\net9.0\refint\WebApi.dll
+C:\Users\Cambridge\Documents\Revature\Week 1\GelbaumD\Week1\WebApi\obj\Debug\net9.0\WebApi.pdb
+C:\Users\Cambridge\Documents\Revature\Week 1\GelbaumD\Week1\WebApi\obj\Debug\net9.0\WebApi.genruntimeconfig.cache
+C:\Users\Cambridge\Documents\Revature\Week 1\GelbaumD\Week1\WebApi\obj\Debug\net9.0\ref\WebApi.dll
