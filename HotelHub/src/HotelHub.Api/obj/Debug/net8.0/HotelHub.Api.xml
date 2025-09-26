@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>HotelHub.Api</name>
+    </assembly>
+    <members>
+        <member name="T:HotelHub.Api.Data.Migrations.InitialHotelCreate">
+            <inheritdoc />
+        </member>
+        <member name="M:HotelHub.Api.Data.Migrations.InitialHotelCreate.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:HotelHub.Api.Data.Migrations.InitialHotelCreate.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:HotelHub.Api.Data.Migrations.InitialHotelCreate.BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)">
+            <inheritdoc />
+        </member>
+    </members>
+</doc>

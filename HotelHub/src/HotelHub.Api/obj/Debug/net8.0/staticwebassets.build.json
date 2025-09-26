@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "86L+WOxnsHKf1pQ+5YLGxmTxFWBeC8YTu93cVCuAYqs=",
+  "Source": "HotelHub.Api",
+  "BasePath": "_content/HotelHub.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

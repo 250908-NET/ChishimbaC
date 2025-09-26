@@ -1,0 +1,22 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio-style sln; works with VS Code + C# Dev Kit
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HotelHub.Api", "src/HotelHub.Api/HotelHub.Api.csproj", "{3C2F1E51-6D5F-4D3F-8B8D-70DF2C3A8C50}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HotelHub.Tests", "tests/HotelHub.Tests/HotelHub.Tests.csproj", "{0A0FE2B7-6B9E-4D30-B18F-6E9E2F6B1C9A}"
+EndProject
+Global
+    GlobalSection(SolutionConfigurationPlatforms) = preSolution
+        Debug|Any CPU = Debug|Any CPU
+        Release|Any CPU = Release|Any CPU
+    EndGlobalSection
+    GlobalSection(ProjectConfigurationPlatforms) = postSolution
+        {3C2F1E51-6D5F-4D3F-8B8D-70DF2C3A8C50}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+        {3C2F1E51-6D5F-4D3F-8B8D-70DF2C3A8C50}.Debug|Any CPU.Build.0 = Debug|Any CPU
+        {3C2F1E51-6D5F-4D3F-8B8D-70DF2C3A8C50}.Release|Any CPU.ActiveCfg = Release|Any CPU
+        {3C2F1E51-6D5F-4D3F-8B8D-70DF2C3A8C50}.Release|Any CPU.Build.0 = Release|Any CPU
+        {0A0FE2B7-6B9E-4D30-B18F-6E9E2F6B1C9A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+        {0A0FE2B7-6B9E-4D30-B18F-6E9E2F6B1C9A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+        {0A0FE2B7-6B9E-4D30-B18F-6E9E2F6B1C9A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+        {0A0FE2B7-6B9E-4D30-B18F-6E9E2F6B1C9A}.Release|Any CPU.Build.0 = Release|Any CPU
+    EndGlobalSection
+EndGlobal
